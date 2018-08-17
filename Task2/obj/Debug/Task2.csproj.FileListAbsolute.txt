@@ -4,3 +4,5 @@ C:\Users\Nikolay_Nikolskiy\Downloads\Task2\Task2\bin\Debug\Task2.pdb
 C:\Users\Nikolay_Nikolskiy\Downloads\Task2\Task2\obj\Debug\Task2.exe
 C:\Users\Nikolay_Nikolskiy\Downloads\Task2\Task2\obj\Debug\Task2.pdb
 C:\Users\Nikolay_Nikolskiy\Downloads\Task2\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay_Nikolskiy\Downloads\Task2\Task2\bin\Debug\ConverterToInt.dll
+C:\Users\Nikolay_Nikolskiy\Downloads\Task2\Task2\bin\Debug\ConverterToInt.pdb

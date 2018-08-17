@@ -1,0 +1,4 @@
+C:\Users\Nikolay_Nikolskiy\Downloads\Task2\ConverterToInt\bin\Debug\ConverterToInt.dll
+C:\Users\Nikolay_Nikolskiy\Downloads\Task2\ConverterToInt\bin\Debug\ConverterToInt.pdb
+C:\Users\Nikolay_Nikolskiy\Downloads\Task2\ConverterToInt\obj\Debug\ConverterToInt.dll
+C:\Users\Nikolay_Nikolskiy\Downloads\Task2\ConverterToInt\obj\Debug\ConverterToInt.pdb
